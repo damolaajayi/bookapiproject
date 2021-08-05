@@ -1,0 +1,8 @@
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\bin\Debug\netcoreapp3.1\Book.AppService.deps.json
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\bin\Debug\netcoreapp3.1\Book.AppService.dll
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\bin\Debug\netcoreapp3.1\Book.AppService.pdb
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\obj\Debug\netcoreapp3.1\Book.AppService.AssemblyInfoInputs.cache
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\obj\Debug\netcoreapp3.1\Book.AppService.AssemblyInfo.cs
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\obj\Debug\netcoreapp3.1\Book.AppService.csproj.CoreCompileInputs.cache
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\obj\Debug\netcoreapp3.1\Book.AppService.dll
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.AppService\Book.AppService\obj\Debug\netcoreapp3.1\Book.AppService.pdb

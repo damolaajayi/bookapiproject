@@ -1,0 +1,4 @@
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.Repository\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.csproj.AssemblyReference.cache
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.Repository\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.AssemblyInfoInputs.cache
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.Repository\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.AssemblyInfo.cs
+C:\Users\timothy.ajayi\source\repos\BookAPI\Book.Repository\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.csproj.CoreCompileInputs.cache
